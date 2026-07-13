@@ -1,0 +1,9 @@
+# Build artifacts
+/xpu-smi
+
+# OS/editor cruft
+.DS_Store
+
+# Claude Code harness (agents/skills) and project instructions — kept local only
+/.claude/
+/CLAUDE.md
