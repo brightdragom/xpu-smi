@@ -82,3 +82,4 @@ xpu-smi/
 | 2026-07-13 | 4개 에이전트 병렬 구현 완료 — nvidia(NVML), amd(amd-smi→rocm-smi→sysfs), intel(intel_gpu_top+sysfs, 통합 GPU N/A 처리), frontend(스냅샷+TUI) |
 | 2026-07-13 | main.go 배선, QA 교차 검증 PASS 21/FAIL 0, 최종 빌드·실행 확인 — **MVP 완료** |
 | 2026-07-14 | 사용자 매뉴얼 `README.md` 작성 (개요/설치/사용법/출력 읽는 법/벤더별 동작/문제 해결/제한사항/아키텍처) |
+| 2026-07-14 | Docker/Kubernetes 배포(DaemonSet, exporter 모드) 개발 계획 문서 `docs/PLAN_DOCKER_K8S_DEPLOYMENT.md` 작성 (착수 전, 계획만) |
